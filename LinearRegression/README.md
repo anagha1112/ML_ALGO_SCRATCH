@@ -40,6 +40,8 @@ Steps:
 
 ---
 
+![Colab Link of the code](https://colab.research.google.com/drive/1zA0Vakg18I5GG4ycTpvfZdbz4qViogGg?usp=sharing)
+
 ## 🧾 Code Explanation
 
 ### 1. Initialization – `__init__()`

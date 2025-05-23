@@ -1,7 +1,11 @@
 
 # 📈 Linear Regression from Scratch (with Gradient Descent)
 
+
 This project implements Linear Regression using gradient descent in Python without using any machine learning libraries. It’s a great starting point for beginners to understand how machine learning models learn from data.
+
+[Run in Google Colab](https://colab.research.google.com/drive/1zA0Vakg18I5GG4ycTpvfZdbz4qViogGg?usp=sharing)
+
 
 ## 🚀 What is Linear Regression?
 
@@ -40,7 +44,6 @@ Steps:
 
 ---
 
-![Colab Link of the code](https://colab.research.google.com/drive/1zA0Vakg18I5GG4ycTpvfZdbz4qViogGg?usp=sharing)
 
 ## 🧾 Code Explanation
 

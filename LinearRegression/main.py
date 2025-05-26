@@ -35,4 +35,3 @@ plt.xlabel("Feature (X)")
 plt.ylabel("Target (y)")
 plt.title("Linear Regression ")
 plt.show()    #plotting the best fit line
-

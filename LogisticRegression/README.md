@@ -11,7 +11,7 @@ Logistic Regression is a supervised machine learning algorithm used for binary c
 Unlike Linear Regression, it predicts probabilities using the sigmoid function, mapping any real-valued number into the [0, 1] interval.
 
 ---
-    🎯 Example: Predicting house price where growth increases non-linearly with size.
+    🎯 Example: Predicting whether a tumor is benign or malignant based on features like size, texture, or shape. 
 
 ---
 

@@ -14,7 +14,7 @@ Polynomial Regression is an extension of Linear Regression that models the non-l
 
 The formula is:
 
-            ## Prediction(ŷ) = w₁·X + w₂·X² + w₃·X³ + ... + b
+            Prediction(ŷ) = w₁·X + w₂·X² + w₃·X³ + ... + b
 
 Where:
 
